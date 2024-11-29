@@ -1,0 +1,6 @@
+package com.fresh2arrive.android
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
